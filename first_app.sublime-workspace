@@ -184,26 +184,10 @@
 	"buffers":
 	[
 		{
-			"file": "Gemfile",
-			"settings":
-			{
-				"buffer_size": 1520,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "config/routes.rb",
 			"settings":
 			{
-				"buffer_size": 1620,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/controllers/application_controller.rb",
-			"settings":
-			{
-				"buffer_size": 204,
+				"buffer_size": 1644,
 				"line_ending": "Unix"
 			}
 		}
@@ -236,9 +220,12 @@
 	},
 	"file_history":
 	[
+		"/home/philippe/Bureau/ROR/first_app/Gemfile",
+		"/home/philippe/Bureau/ROR/first_app/app/controllers/users_controller.rb",
+		"/home/philippe/Bureau/ROR/first_app/config/routes.rb",
+		"/home/philippe/Bureau/ROR/first_app/app/controllers/application_controller.rb",
 		"/home/philippe/Bureau/ROR/first_app/log/development.log",
 		"/home/philippe/Bureau/ROR/first_app/.gitignore",
-		"/home/philippe/Bureau/ROR/first_app/Gemfile",
 		"/home/philippe/Bureau/Projets/product.tpl",
 		"/home/philippe/Bureau/blockrappel/blockrappel_product.tpl",
 		"/home/philippe/Bureau/blockrappel/blockrappel.php",
@@ -360,10 +347,7 @@
 		"/home/philippe/Bureau/htaccess",
 		"/home/philippe/Bureau/Projets/weerun/wp-content/plugins/weerun-events/init.php",
 		"/home/philippe/Bureau/Projets/weerun/wp-content/plugins/weerun-events/wre-event.php",
-		"/home/philippe/Bureau/Projets/weerun/wp-content/themes/twentythirteen/template-team.php",
-		"/home/philippe/Bureau/Projets/weerun/wp-content/themes/twentythirteen/functions.php",
-		"/home/philippe/Bureau/Projets/weerun/wp-content/plugins/weerun-team/init.php",
-		"/home/philippe/Bureau/Projets/weerun/wp-content/plugins/weerun-team/wrt-team.php"
+		"/home/philippe/Bureau/Projets/weerun/wp-content/themes/twentythirteen/template-team.php"
 	],
 	"find":
 	{
@@ -544,44 +528,15 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "Gemfile",
-					"settings":
-					{
-						"buffer_size": 1520,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1142,
-								1142
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "config/routes.rb",
 					"settings":
 					{
-						"buffer_size": 1620,
+						"buffer_size": 1644,
 						"regions":
 						{
 						},
@@ -600,35 +555,6 @@
 							"syntax": "Packages/Ruby/Ruby.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "app/controllers/application_controller.rb",
-					"settings":
-					{
-						"buffer_size": 204,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
